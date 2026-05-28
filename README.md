@@ -31,7 +31,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.w3schools.com/css/" target="_blank">
+      <a href="https://www.w3schools.com/html/" target="_blank">
         <img src="https://skillicons.dev/icons?i=html" width="40" height="40" />
         <br />HTML
       </a>
