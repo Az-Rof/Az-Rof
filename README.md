@@ -141,6 +141,17 @@
     <br />Android Studio
   </a>
   </tr>
+  <tr>
+     <td align="center">
+      <a href="https://figma.com/">
+        <img
+          src="https://skillicons.dev/icons?i=figma"
+          width="40"
+          height="40"/>
+        <br />Figma
+      </a>
+    </td>
+  </tr>
   
   <tr>
     <td align="center">
